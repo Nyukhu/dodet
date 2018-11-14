@@ -6,8 +6,8 @@
         xmlns:local="clr-namespace:WpfApp2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="351,214,0,0" VerticalAlignment="Top" Width="75"/>
+    <Grid Background="#FFBF3F3F">
+        <Button Content="Button" HorizontalAlignment="Left" Margin="359,208,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
